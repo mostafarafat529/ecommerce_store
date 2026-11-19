@@ -9,8 +9,8 @@ export const storeConfig = {
   currencyLabel: 'ج.م',
   currencyFullLabel: 'جنيه',
   // رقم الواتساب بصيغة دولية بدون علامة + (مثال: 201012345678)
-  whatsappNumber: '201000000000',
-  displayPhone: '0100 000 0000',
+  whatsappNumber: '201096078019',
+  displayPhone: '01096078019',
   email: 'hello@verastore.eg',
   city: 'القاهرة، مصر',
   pickupAvailable: true,
